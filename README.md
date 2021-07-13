@@ -2,8 +2,5 @@
 Googletrends_time series analysis for music platforms
 
 # tools used:
-Pytrends
-Numpy
-Pandas
-Matplotlib
+Pytrends | Numpy | Pandas | Matplotlib
 
